@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TextUtils-App/static/js/main.bc52e06a.js",
+    "index.html": "/TextUtils-App/index.html",
+    "main.bc52e06a.js.map": "/TextUtils-App/static/js/main.bc52e06a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc52e06a.js"
+  ]
+}
